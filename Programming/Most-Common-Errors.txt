@@ -1,0 +1,3 @@
+fatal: could not create work tree dir 'OOP345': Disk quota exceeded
+
+rm -rf /path/to/directory
